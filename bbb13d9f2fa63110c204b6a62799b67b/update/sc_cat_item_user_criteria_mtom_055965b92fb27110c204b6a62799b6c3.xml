@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Job Application ">7acbd5792f727110c204b6a62799b6b6</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>monique</sys_created_by>
+        <sys_created_on>2023-11-29 19:18:45</sys_created_on>
+        <sys_id>055965b92fb27110c204b6a62799b6c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Job Application .Job Application Tracker</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_055965b92fb27110c204b6a62799b6c3</sys_update_name>
+        <sys_updated_by>monique</sys_updated_by>
+        <sys_updated_on>2023-11-29 19:18:45</sys_updated_on>
+        <user_criteria display_value="Job Application Tracker">488fabac2fbe3110c204b6a62799b6b6</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

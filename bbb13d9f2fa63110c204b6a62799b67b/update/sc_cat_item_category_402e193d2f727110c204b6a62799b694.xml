@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Job Application ">7acbd5792f727110c204b6a62799b6b6</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>monique</sys_created_by>
+        <sys_created_on>2023-11-29 18:29:48</sys_created_on>
+        <sys_id>402e193d2f727110c204b6a62799b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.New Job Application </sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sc_cat_item_category_402e193d2f727110c204b6a62799b694</sys_update_name>
+        <sys_updated_by>monique</sys_updated_by>
+        <sys_updated_on>2023-11-29 18:29:48</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
