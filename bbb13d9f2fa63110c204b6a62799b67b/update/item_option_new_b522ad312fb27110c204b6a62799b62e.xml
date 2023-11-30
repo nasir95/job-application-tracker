@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_1104764_job_apps_job_application_tracker</record_producer_table>
         <reference/>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>type=Hybrid^NQtype=Onsite^NQtype=Remote</reference_qual>
+        <reference_qual_condition>type=Hybrid^NQtype=Onsite^NQtype=Remote</reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated 
@@ -77,17 +77,17 @@
         <sys_created_by>monique</sys_created_by>
         <sys_created_on>2023-11-29 18:52:53</sys_created_on>
         <sys_id>b522ad312fb27110c204b6a62799b62e</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Job Type</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
         <sys_update_name>item_option_new_b522ad312fb27110c204b6a62799b62e</sys_update_name>
         <sys_updated_by>monique</sys_updated_by>
-        <sys_updated_on>2023-11-30 02:18:48</sys_updated_on>
+        <sys_updated_on>2023-11-30 22:18:33</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>18</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
