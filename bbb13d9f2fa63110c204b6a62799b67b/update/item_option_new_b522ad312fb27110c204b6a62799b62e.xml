@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>type</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,7 +38,7 @@
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>job_type</name>
@@ -77,14 +77,14 @@
         <sys_created_by>monique</sys_created_by>
         <sys_created_on>2023-11-29 18:52:53</sys_created_on>
         <sys_id>b522ad312fb27110c204b6a62799b62e</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Job Type</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
         <sys_update_name>item_option_new_b522ad312fb27110c204b6a62799b62e</sys_update_name>
         <sys_updated_by>monique</sys_updated_by>
-        <sys_updated_on>2023-11-30 22:21:48</sys_updated_on>
+        <sys_updated_on>2023-11-30 22:24:13</sys_updated_on>
         <table/>
         <tooltip/>
         <type>18</type>
