@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_1104764_job_apps_job_application_tracker</record_producer_table>
         <reference>cmn_location</reference>
-        <reference_qual>cmn_location_type=city</reference_qual>
-        <reference_qual_condition table="cmn_location">cmn_location_type=city<item display_value="City" endquery="false" field="cmn_location_type" goto="false" newquery="false" operator="=" or="false" value="city"/>
+        <reference_qual>country=USA</reference_qual>
+        <reference_qual_condition table="cmn_location">country=USA<item endquery="false" field="country" goto="false" newquery="false" operator="=" or="false" value="USA"/>
         </reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
@@ -78,14 +78,14 @@
         <sys_created_by>monique</sys_created_by>
         <sys_created_on>2023-12-05 00:21:20</sys_created_on>
         <sys_id>b89714672f3a3110c204b6a62799b66e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Job Location</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
         <sys_update_name>item_option_new_b89714672f3a3110c204b6a62799b66e</sys_update_name>
         <sys_updated_by>monique</sys_updated_by>
-        <sys_updated_on>2023-12-05 00:35:49</sys_updated_on>
+        <sys_updated_on>2023-12-05 00:40:21</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
