@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
-        <misc>0</misc>
-        <order>200</order>
+        <order>100</order>
         <published_ref/>
-        <question display_value="What volume do you prefer?">86fb9e6f2f727110c204b6a62799b665</question>
-        <rec_misc>0</rec_misc>
+        <question display_value="Where to deliver?">5a4fd6272fb27110c204b6a62799b6d5</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>olanike</sys_created_by>
-        <sys_created_on>2023-12-05 09:30:49</sys_created_on>
-        <sys_id>5f4c96232fb27110c204b6a62799b68f</sys_id>
+        <sys_created_on>2023-12-05 09:46:35</sys_created_on>
+        <sys_id>ceefd2672fb27110c204b6a62799b65d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -17,9 +15,9 @@
         <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
         <sys_update_name/>
         <sys_updated_by>olanike</sys_updated_by>
-        <sys_updated_on>2023-12-05 09:30:49</sys_updated_on>
-        <text>Second</text>
-        <value>second</value>
+        <sys_updated_on>2023-12-05 09:46:35</sys_updated_on>
+        <text>Doorstep</text>
+        <value>doorstep</value>
     </question_choice>
-    <fx_price action="delete_multiple" query="id=5f4c96232fb27110c204b6a62799b68f"/>
+    <fx_price action="delete_multiple" query="id=ceefd2672fb27110c204b6a62799b65d"/>
 </record_update>
