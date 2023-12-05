@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <attributes/>
         <cat_item display_value="Boost Your Interview IQ">c9c9bf712f7e7110c204b6a62799b6e3</cat_item>
         <category/>
@@ -37,17 +37,17 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>Backcover</name>
-        <order>200</order>
+        <name>Volume</name>
+        <order>300</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>What type of cover do you prefer?</question_text>
+        <question_text>What volume do you prefer?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>olanike</sys_created_by>
-        <sys_created_on>2023-12-05 08:53:07</sys_created_on>
-        <sys_id>25b25e272f727110c204b6a62799b629</sys_id>
+        <sys_created_on>2023-12-05 09:30:49</sys_created_on>
+        <sys_id>86fb9e6f2f727110c204b6a62799b665</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name>What type of cover do you prefer?</sys_name>
+        <sys_name>What volume do you prefer?</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
-        <sys_update_name>item_option_new_25b25e272f727110c204b6a62799b629</sys_update_name>
+        <sys_update_name>item_option_new_86fb9e6f2f727110c204b6a62799b665</sys_update_name>
         <sys_updated_by>olanike</sys_updated_by>
-        <sys_updated_on>2023-12-05 09:18:04</sys_updated_on>
+        <sys_updated_on>2023-12-05 09:31:13</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>3</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=25b25e272f727110c204b6a62799b629"/>
-    <fx_price action="delete_multiple" query="id=25b25e272f727110c204b6a62799b629"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=86fb9e6f2f727110c204b6a62799b665"/>
+    <fx_price action="delete_multiple" query="id=86fb9e6f2f727110c204b6a62799b665"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>25b25e272f727110c204b6a62799b629</id>
+        <id>86fb9e6f2f727110c204b6a62799b665</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>olanike</sys_created_by>
-        <sys_created_on>2023-12-05 08:53:07</sys_created_on>
-        <sys_id>7aa39e672f727110c204b6a62799b6a5</sys_id>
+        <sys_created_on>2023-12-05 09:30:49</sys_created_on>
+        <sys_id>134c96232fb27110c204b6a62799b64c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>olanike</sys_updated_by>
-        <sys_updated_on>2023-12-05 08:53:07</sys_updated_on>
+        <sys_updated_on>2023-12-05 09:30:49</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>25b25e272f727110c204b6a62799b629</id>
+        <id>86fb9e6f2f727110c204b6a62799b665</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>olanike</sys_created_by>
-        <sys_created_on>2023-12-05 08:53:07</sys_created_on>
-        <sys_id>b6a39e672f727110c204b6a62799b6a4</sys_id>
+        <sys_created_on>2023-12-05 09:30:49</sys_created_on>
+        <sys_id>d34c96232fb27110c204b6a62799b64b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>olanike</sys_updated_by>
-        <sys_updated_on>2023-12-05 08:53:07</sys_updated_on>
+        <sys_updated_on>2023-12-05 09:30:49</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
