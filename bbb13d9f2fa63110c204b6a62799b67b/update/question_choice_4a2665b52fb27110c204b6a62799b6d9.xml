@@ -10,16 +10,50 @@
         <sys_created_by>monique</sys_created_by>
         <sys_created_on>2023-11-29 19:04:53</sys_created_on>
         <sys_id>4a2665b52fb27110c204b6a62799b6d9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Accepted</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>monique</sys_updated_by>
-        <sys_updated_on>2023-11-29 19:04:53</sys_updated_on>
+        <sys_update_name>question_choice_4a2665b52fb27110c204b6a62799b6d9</sys_update_name>
+        <sys_updated_by>nasir</sys_updated_by>
+        <sys_updated_on>2023-12-06 23:21:24</sys_updated_on>
         <text>Accepted</text>
-        <value>accepted</value>
+        <value>Accepted</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=4a2665b52fb27110c204b6a62799b6d9"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>4a2665b52fb27110c204b6a62799b6d9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>nasir</sys_created_by>
+        <sys_created_on>2023-12-06 23:21:43</sys_created_on>
+        <sys_id>9c1462482f87f110c204b6a62799b67e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nasir</sys_updated_by>
+        <sys_updated_on>2023-12-06 23:21:43</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>4a2665b52fb27110c204b6a62799b6d9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>nasir</sys_created_by>
+        <sys_created_on>2023-12-06 23:21:43</sys_created_on>
+        <sys_id>501462482f87f110c204b6a62799b67e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nasir</sys_updated_by>
+        <sys_updated_on>2023-12-06 23:21:43</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
 </record_update>
