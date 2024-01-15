@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="job-apps Search Profile">c56bdab055fa71100042ff5fdf9f9576</profile>
+        <search_source display_value="Job Application Tracker">9b6b5eb02ffa7110c204b6a62799b65d</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:23:42</sys_created_on>
+        <sys_id>5b6b5eb02ffa7110c204b6a62799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>job-apps Search Profile.Job Application Tracker</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_5b6b5eb02ffa7110c204b6a62799b660</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:23:42</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

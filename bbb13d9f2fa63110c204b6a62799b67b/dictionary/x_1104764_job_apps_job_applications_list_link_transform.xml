@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d47096eb2fea7110c204b6a62799b692" extends="sys_import_set_row" label="Job Applications List_Link Transform" max_length="40" name="x_1104764_job_apps_job_applications_list_link_transform" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cover letter" label="Cover letter" max_length="40" name="u_cover_letter" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date Applied" label="Date Applied" max_length="40" name="u_date_applied" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Job Board" label="Job Board " max_length="40" name="u_job_board" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Job Title" label="Job Title" max_length="41" name="u_job_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="149" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Recruiter Contact" label="Recruiter Contact" max_length="40" name="u_recruiter_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Resume sent" label="Resume sent" max_length="40" name="u_resume_sent" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

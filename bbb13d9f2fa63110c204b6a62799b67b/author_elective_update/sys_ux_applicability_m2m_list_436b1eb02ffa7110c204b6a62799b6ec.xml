@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app job-apps">6e6b1eb02ffa7110c204b6a62799b677</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:23:41</sys_created_on>
+        <sys_id>436b1eb02ffa7110c204b6a62799b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_436b1eb02ffa7110c204b6a62799b6ec</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:23:41</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>sys_ux_applicability_m2m_list_436b1eb02ffa7110c204b6a62799b6ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app job-apps">6e6b1eb02ffa7110c204b6a62799b677</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-26 20:23:41</sys_created_on><sys_id>436b1eb02ffa7110c204b6a62799b6ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_436b1eb02ffa7110c204b6a62799b6ec</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-26 20:23:41</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>1776575286</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:28:24</sys_created_on>
+        <sys_id>8c8cdaf02ffa7110c204b6a62799b626</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0d51a78c0000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:28:24</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>4b6b1eb07afa7110e22b9b7e94b12bed</update_guid>
+        <update_guid_history>4b6b1eb07afa7110e22b9b7e94b12bed:1331794418,4b6b1eb07afa7110e22b9b7e94b12bed:1331794418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:28:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>403a8867597141198d74b9b49fafc4d9</sys_id>
+        <sys_metadata>436b1eb02ffa7110c204b6a62799b6ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_436b1eb02ffa7110c204b6a62799b6ec</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_436b1eb02ffa7110c204b6a62799b6ec">8c8cdaf02ffa7110c204b6a62799b626</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:28:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

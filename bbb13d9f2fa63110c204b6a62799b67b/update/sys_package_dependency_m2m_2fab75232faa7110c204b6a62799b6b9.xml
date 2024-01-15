@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">a41dcd919d0321107fa3a4a5988b1e40</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>monique</sys_created_by>
+        <sys_created_on>2023-11-22 20:52:36</sys_created_on>
+        <sys_id>2fab75232faa7110c204b6a62799b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_updated_by>monique</sys_updated_by>
+        <sys_updated_on>2023-11-22 20:52:36</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

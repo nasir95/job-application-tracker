@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="Job Application Tracker">568027ef2f62b110c204b6a62799b61b</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>681ccaf9c0a8016400b98a06818d57c7</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-24 23:49:49</sys_created_on>
+        <sys_id>7a67f0502f3e3510c204b6a62799b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681ccaf9c0a8016400b98a06818d57c7</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_7a67f0502f3e3510c204b6a62799b64e</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-24 23:49:49</sys_updated_on>
+        <type>3</type>
+        <user display_value="Joe Employee">681ccaf9c0a8016400b98a06818d57c7</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>pa_dashboards_permissions_7a67f0502f3e3510c204b6a62799b64e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="Job Application Tracker">568027ef2f62b110c204b6a62799b61b</dashboard><delete>false</delete><group/><identity>681ccaf9c0a8016400b98a06818d57c7</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-24 23:49:49</sys_created_on><sys_id>7a67f0502f3e3510c204b6a62799b64e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>681ccaf9c0a8016400b98a06818d57c7</sys_name><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>pa_dashboards_permissions_7a67f0502f3e3510c204b6a62799b64e</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-24 23:49:49</sys_updated_on><type>3</type><user display_value="Joe Employee">681ccaf9c0a8016400b98a06818d57c7</user><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>377851057</payload_hash>
+        <record_name>681ccaf9c0a8016400b98a06818d57c7</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-24 23:49:49</sys_created_on>
+        <sys_id>fe67f0502f3e3510c204b6a62799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c03bd57660000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-24 23:49:49</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>3667f050e43e35108737f85506f54551</update_guid>
+        <update_guid_history>3667f050e43e35108737f85506f54551:377851057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="681ccaf9c0a8016400b98a06818d57c7">bcb878d02f3e3510c204b6a62799b635</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-24 23:55:25</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>2569e4ec6ac74c55b255de00f4714599</sys_id>
+        <sys_metadata>7a67f0502f3e3510c204b6a62799b64e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681ccaf9c0a8016400b98a06818d57c7</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_7a67f0502f3e3510c204b6a62799b64e</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_7a67f0502f3e3510c204b6a62799b64e">fe67f0502f3e3510c204b6a62799b651</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-24 23:55:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

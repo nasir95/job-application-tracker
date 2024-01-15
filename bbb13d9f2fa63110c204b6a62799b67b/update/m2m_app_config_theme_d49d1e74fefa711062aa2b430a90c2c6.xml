@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:33:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d49d1e74fefa711062aa2b430a90c2c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>m2m_app_config_theme_d49d1e74fefa711062aa2b430a90c2c6</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:33:05</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="Job Apps App Config">d89d1e74d8fa7110d82395d59c31adc8</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

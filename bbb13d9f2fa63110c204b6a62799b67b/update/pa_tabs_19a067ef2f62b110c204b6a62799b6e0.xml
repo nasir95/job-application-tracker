@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Job Application Trac - New Tab">5da067ef2f62b110c204b6a62799b6dd</canvas_page>
+        <name>Job Application Trac - New Tab</name>
+        <page display_value="PA Job Application Trac - New Tab">19a067ef2f62b110c204b6a62799b6dc</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-23 04:13:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>19a067ef2f62b110c204b6a62799b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Trac - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>pa_tabs_19a067ef2f62b110c204b6a62799b6e0</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-23 04:13:44</sys_updated_on>
+    </pa_tabs>
+</record_update>

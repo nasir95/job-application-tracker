@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>related_links</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-22 22:56:33</sys_created_on>
+        <sys_id>87081e272f2e7110c204b6a62799b639</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related Links</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_ui_view_87081e272f2e7110c204b6a62799b639</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-22 22:56:33</sys_updated_on>
+        <title>Related Links</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

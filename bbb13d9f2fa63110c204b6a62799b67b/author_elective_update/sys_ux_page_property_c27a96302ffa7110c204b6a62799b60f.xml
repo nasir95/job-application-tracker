@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Job Application Tracker Workspace">487a1a702ffa7110c204b6a62799b626</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:19:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c27a96302ffa7110c204b6a62799b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_ux_page_property_c27a96302ffa7110c204b6a62799b60f</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:19:31</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1104764_job_apps.487a1a702ffa7110c204b6a62799b626.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=c27a96302ffa7110c204b6a62799b60f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>sys_ux_page_property_c27a96302ffa7110c204b6a62799b60f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="Job Application Tracker Workspace">487a1a702ffa7110c204b6a62799b626</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-26 20:19:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>c27a96302ffa7110c204b6a62799b60f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>sys_ux_page_property_c27a96302ffa7110c204b6a62799b60f</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-26 20:19:31</sys_updated_on><type>json</type><unique_name>x_1104764_job_apps.487a1a702ffa7110c204b6a62799b626.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=c27a96302ffa7110c204b6a62799b60f"/></record_update>]]></payload>
+        <payload_hash>-1734532968</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:19:31</sys_created_on>
+        <sys_id>ce7a96302ffa7110c204b6a62799b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0d4987d50000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:19:31</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>067a96301dfa711066c33e6d4120d110</update_guid>
+        <update_guid_history>067a96301dfa711066c33e6d4120d110:-1734532968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:21:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>1e3b3f4d105b4b288e836a0f6b143e40</sys_id>
+        <sys_metadata>c27a96302ffa7110c204b6a62799b60f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_c27a96302ffa7110c204b6a62799b60f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_c27a96302ffa7110c204b6a62799b60f">ce7a96302ffa7110c204b6a62799b610</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:21:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

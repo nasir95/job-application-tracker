@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Job Application Tracker">ffb139132fe63110c204b6a62799b600</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1104764_job_apps_job_application_tracker">status=accepted^EQ<item display_value="accepted" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="accepted"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Jobs accepted</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Accepted</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1104764_job_apps_job_application_tracker</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>Job Seeker</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>monique</sys_created_by>
+        <sys_created_on>2023-11-22 21:25:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>51d286e72faa7110c204b6a62799b60d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Accepted</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_app_module_51d286e72faa7110c204b6a62799b60d</sys_update_name>
+        <sys_updated_by>monique</sys_updated_by>
+        <sys_updated_on>2023-11-22 21:39:00</sys_updated_on>
+        <timeline_page/>
+        <title>Accepted</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Accepted Roles</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>

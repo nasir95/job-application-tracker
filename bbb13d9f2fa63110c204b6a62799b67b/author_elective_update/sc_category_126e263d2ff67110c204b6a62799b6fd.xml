@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-30 00:20:56</sys_created_on>
+        <sys_id>126e263d2ff67110c204b6a62799b6fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JOB</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sc_category_126e263d2ff67110c204b6a62799b6fd</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-30 00:20:56</sys_updated_on>
+        <title>JOB</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=126e263d2ff67110c204b6a62799b6fd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>sc_category_126e263d2ff67110c204b6a62799b6fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-30 00:20:56</sys_created_on><sys_id>126e263d2ff67110c204b6a62799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>JOB</sys_name><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>sc_category_126e263d2ff67110c204b6a62799b6fd</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-30 00:20:56</sys_updated_on><title>JOB</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=126e263d2ff67110c204b6a62799b6fd"/></record_update>]]></payload>
+        <payload_hash>1080579077</payload_hash>
+        <record_name>JOB</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-30 00:20:57</sys_created_on>
+        <sys_id>337e2a7d2ff67110c204b6a62799b688</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1d99a34c0000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-30 00:20:57</sys_updated_on>
+        <type>Category</type>
+        <update_guid>3b7ea27de0f671105be7004a63f9c48d</update_guid>
+        <update_guid_history>3b7ea27de0f671105be7004a63f9c48d:1080579077</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="JOB">47beae7d2ff67110c204b6a62799b612</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-30 00:21:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>3735e01992244976aad3bf78f935b521</sys_id>
+        <sys_metadata>126e263d2ff67110c204b6a62799b6fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JOB</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>sc_category_126e263d2ff67110c204b6a62799b6fd</sys_update_name>
+        <sys_update_version display_value="sc_category_126e263d2ff67110c204b6a62799b6fd">337e2a7d2ff67110c204b6a62799b688</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-30 00:21:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

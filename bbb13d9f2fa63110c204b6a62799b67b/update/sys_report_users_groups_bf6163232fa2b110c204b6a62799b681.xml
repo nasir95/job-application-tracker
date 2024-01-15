@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Active Job Today">3b6163232fa2b110c204b6a62799b681</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-23 04:17:10</sys_created_on>
+        <sys_id>bf6163232fa2b110c204b6a62799b681</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3b6163232fa2b110c204b6a62799b681</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_report_users_groups_bf6163232fa2b110c204b6a62799b681</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-23 04:17:10</sys_updated_on>
+        <user_id display_value="Pushpa Nadar">7db23e152fa23110c204b6a62799b61e</user_id>
+    </sys_report_users_groups>
+</record_update>

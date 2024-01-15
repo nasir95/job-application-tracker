@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Job Application Trac - New Tab">19a067ef2f62b110c204b6a62799b6dc</legacy_page>
+        <name>PA Job Application Trac - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-23 04:13:43</sys_created_on>
+        <sys_id>5da067ef2f62b110c204b6a62799b6dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Job Application Trac - New Tab</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_grid_canvas_5da067ef2f62b110c204b6a62799b6dd</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-23 04:13:43</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

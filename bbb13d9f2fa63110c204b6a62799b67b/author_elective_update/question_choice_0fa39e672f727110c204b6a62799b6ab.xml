@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="What type of cover do you prefer?">25b25e272f727110c204b6a62799b629</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>olanike</sys_created_by>
+        <sys_created_on>2023-12-05 08:53:07</sys_created_on>
+        <sys_id>0fa39e672f727110c204b6a62799b6ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Paperback</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>question_choice_0fa39e672f727110c204b6a62799b6ab</sys_update_name>
+        <sys_updated_by>olanike</sys_updated_by>
+        <sys_updated_on>2023-12-05 08:53:07</sys_updated_on>
+        <text>Paperback</text>
+        <value>paperback</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=0fa39e672f727110c204b6a62799b6ab"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>question_choice_0fa39e672f727110c204b6a62799b6ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>200</order><published_ref/><question display_value="What type of cover do you prefer?">25b25e272f727110c204b6a62799b629</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>olanike</sys_created_by><sys_created_on>2023-12-05 08:53:07</sys_created_on><sys_id>0fa39e672f727110c204b6a62799b6ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Paperback</sys_name><sys_package/><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>question_choice_0fa39e672f727110c204b6a62799b6ab</sys_update_name><sys_updated_by>olanike</sys_updated_by><sys_updated_on>2023-12-05 08:53:07</sys_updated_on><text>Paperback</text><value>paperback</value></question_choice><fx_price action="delete_multiple" query="id=0fa39e672f727110c204b6a62799b6ab"/></record_update>]]></payload>
+        <payload_hash>1015140698</payload_hash>
+        <record_name>Paperback</record_name>
+        <reverted_from/>
+        <source>946cd6232fb27110c204b6a62799b6da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>olanike</sys_created_by>
+        <sys_created_on>2023-12-05 09:31:12</sys_created_on>
+        <sys_id>fc6c1a232fb27110c204b6a62799b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c395135000000001</sys_recorded_at>
+        <sys_updated_by>olanike</sys_updated_by>
+        <sys_updated_on>2023-12-05 09:31:12</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>f06c1a23f2b27110f3260fa0fdcd01c0</update_guid>
+        <update_guid_history>f06c1a23f2b27110f3260fa0fdcd01c0:1015140698,65d7deab4f727110210b0892694c3a97:10181980,e5d7deab277271106581b08a0a0e3095:638908934</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Paperback">7cdcd2632fb27110c204b6a62799b6b1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>olanike</sys_created_by>
+        <sys_created_on>2023-12-05 09:33:07</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>185c2d3bf628475887df6dd28dd9b7a4</sys_id>
+        <sys_metadata>0fa39e672f727110c204b6a62799b6ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Paperback</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>question_choice_0fa39e672f727110c204b6a62799b6ab</sys_update_name>
+        <sys_update_version display_value="question_choice_0fa39e672f727110c204b6a62799b6ab">fc6c1a232fb27110c204b6a62799b6c0</sys_update_version>
+        <sys_updated_by>olanike</sys_updated_by>
+        <sys_updated_on>2023-12-05 09:33:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

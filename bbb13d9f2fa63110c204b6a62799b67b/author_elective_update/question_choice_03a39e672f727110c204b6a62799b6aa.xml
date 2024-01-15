@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="What type of cover do you prefer?">25b25e272f727110c204b6a62799b629</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>olanike</sys_created_by>
+        <sys_created_on>2023-12-05 08:53:07</sys_created_on>
+        <sys_id>03a39e672f727110c204b6a62799b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardcovered</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>question_choice_03a39e672f727110c204b6a62799b6aa</sys_update_name>
+        <sys_updated_by>olanike</sys_updated_by>
+        <sys_updated_on>2023-12-05 08:53:07</sys_updated_on>
+        <text>Hardcovered</text>
+        <value>hardcovered</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=03a39e672f727110c204b6a62799b6aa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>question_choice_03a39e672f727110c204b6a62799b6aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref/><question display_value="What type of cover do you prefer?">25b25e272f727110c204b6a62799b629</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>olanike</sys_created_by><sys_created_on>2023-12-05 08:53:07</sys_created_on><sys_id>03a39e672f727110c204b6a62799b6aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardcovered</sys_name><sys_package/><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>question_choice_03a39e672f727110c204b6a62799b6aa</sys_update_name><sys_updated_by>olanike</sys_updated_by><sys_updated_on>2023-12-05 08:53:07</sys_updated_on><text>Hardcovered</text><value>hardcovered</value></question_choice><fx_price action="delete_multiple" query="id=03a39e672f727110c204b6a62799b6aa"/></record_update>]]></payload>
+        <payload_hash>114510705</payload_hash>
+        <record_name>Hardcovered</record_name>
+        <reverted_from/>
+        <source>946cd6232fb27110c204b6a62799b6da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>olanike</sys_created_by>
+        <sys_created_on>2023-12-05 09:31:12</sys_created_on>
+        <sys_id>746c1a232fb27110c204b6a62799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3951349f0000001</sys_recorded_at>
+        <sys_updated_by>olanike</sys_updated_by>
+        <sys_updated_on>2023-12-05 09:31:12</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>786c1a2385b271106dea1fb84f1bc2ae</update_guid>
+        <update_guid_history>786c1a2385b271106dea1fb84f1bc2ae:114510705,ddd7deabfa72711091ff45ffcc37a792:-1908709581,59d7deab387271100ddb30b9ce408990:1134338343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hardcovered">f0dcd2632fb27110c204b6a62799b6ac</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>olanike</sys_created_by>
+        <sys_created_on>2023-12-05 09:33:07</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>76d4b79e766c47d99a60bc731a97c1b1</sys_id>
+        <sys_metadata>03a39e672f727110c204b6a62799b6aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardcovered</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>question_choice_03a39e672f727110c204b6a62799b6aa</sys_update_name>
+        <sys_update_version display_value="question_choice_03a39e672f727110c204b6a62799b6aa">746c1a232fb27110c204b6a62799b6af</sys_update_version>
+        <sys_updated_by>olanike</sys_updated_by>
+        <sys_updated_on>2023-12-05 09:33:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

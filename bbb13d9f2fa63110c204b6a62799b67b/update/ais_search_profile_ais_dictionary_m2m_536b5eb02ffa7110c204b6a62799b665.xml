@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1104764_job_apps_job_apps_search_profile_default_spell_check_dictionary">936b5eb02ffa7110c204b6a62799b662</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="job-apps Search Profile">c56bdab055fa71100042ff5fdf9f9576</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:23:42</sys_created_on>
+        <sys_id>536b5eb02ffa7110c204b6a62799b665</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1104764_job_apps_job_apps_search_profile_default_spell_check_dictionary.job-apps Search Profile</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_536b5eb02ffa7110c204b6a62799b665</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:23:42</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

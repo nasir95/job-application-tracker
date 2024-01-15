@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="01e13d132fe63110c204b6a62799b6f5">af543d172fe63110c204b6a62799b6c0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Job Application Trackers</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1104764_job_apps_job_application_tracker</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1104764_job_apps.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-22 01:42:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ef543d172fe63110c204b6a62799b6c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Trackers</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_app_module_ef543d172fe63110c204b6a62799b6c3</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-22 01:42:10</sys_updated_on>
+        <timeline_page/>
+        <title>Job Application Trackers</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>sys_app_module_ef543d172fe63110c204b6a62799b6c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="01e13d132fe63110c204b6a62799b6f5">af543d172fe63110c204b6a62799b6c0</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Job Application Trackers</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1104764_job_apps_job_application_tracker</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1104764_job_apps.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-22 01:42:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ef543d172fe63110c204b6a62799b6c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Job Application Trackers</sys_name><sys_overrides/><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>sys_app_module_ef543d172fe63110c204b6a62799b6c3</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-22 01:42:10</sys_updated_on><timeline_page/><title>Job Application Trackers</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1755061074</payload_hash>
+        <record_name>Job Application Trackers</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-22 01:42:10</sys_created_on>
+        <sys_id>e3543d172fe63110c204b6a62799b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf4b120b00000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-22 01:42:10</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2b543d174ee63110ebf2c4119cd993c6</update_guid>
+        <update_guid_history>2b543d174ee63110ebf2c4119cd993c6:-1755061074</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Job Application Trackers">e2f4b9572fe63110c204b6a62799b68c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-22 01:44:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>822680e64766487e85e7e7a353ef1829</sys_id>
+        <sys_metadata>ef543d172fe63110c204b6a62799b6c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Trackers</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>sys_app_module_ef543d172fe63110c204b6a62799b6c3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ef543d172fe63110c204b6a62799b6c3">e3543d172fe63110c204b6a62799b6c7</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-22 01:44:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

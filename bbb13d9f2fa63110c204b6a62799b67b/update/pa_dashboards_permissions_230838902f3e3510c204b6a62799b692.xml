@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Job Application Tracker">568027ef2f62b110c204b6a62799b61b</dashboard>
+        <delete>false</delete>
+        <group display_value="Job Searcher" name="Job Searcher">92037c5b2fa23110c204b6a62799b6be</group>
+        <identity>92037c5b2fa23110c204b6a62799b6be</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>monique</sys_created_by>
+        <sys_created_on>2023-11-24 23:52:36</sys_created_on>
+        <sys_id>230838902f3e3510c204b6a62799b692</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>92037c5b2fa23110c204b6a62799b6be</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_230838902f3e3510c204b6a62799b692</sys_update_name>
+        <sys_updated_by>monique</sys_updated_by>
+        <sys_updated_on>2023-11-24 23:52:36</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

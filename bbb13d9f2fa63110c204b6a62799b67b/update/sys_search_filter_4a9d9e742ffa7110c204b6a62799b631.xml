@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Job Application Tracker">9b6b5eb02ffa7110c204b6a62799b65d</ais_search_source>
+        <label>Job Application Tracker</label>
+        <name>Job Application Tracker</name>
+        <order>100</order>
+        <search_context_config display_value="Job Apps AI Search Configuration">d89d1e7485fa711006aea4c4380ec5bf</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:33:10</sys_created_on>
+        <sys_id>4a9d9e742ffa7110c204b6a62799b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Tracker</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_search_filter_4a9d9e742ffa7110c204b6a62799b631</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:33:10</sys_updated_on>
+    </sys_search_filter>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="Job Application Tracker">568027ef2f62b110c204b6a62799b61b</dashboard>
+        <delete>false</delete>
+        <group display_value="NextGen Admin" name="NextGen Admin">0259a2992f623110c204b6a62799b66e</group>
+        <identity>0259a2992f623110c204b6a62799b66e</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>monique</sys_created_by>
+        <sys_created_on>2023-11-25 00:02:02</sys_created_on>
+        <sys_id>313a78942f3e3510c204b6a62799b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0259a2992f623110c204b6a62799b66e</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_313a78942f3e3510c204b6a62799b6ef</sys_update_name>
+        <sys_updated_by>monique</sys_updated_by>
+        <sys_updated_on>2023-11-25 00:02:02</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>pa_dashboards_permissions_313a78942f3e3510c204b6a62799b6ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="Job Application Tracker">568027ef2f62b110c204b6a62799b61b</dashboard><delete>false</delete><group display_value="NextGen Admin" name="NextGen Admin">0259a2992f623110c204b6a62799b66e</group><identity>0259a2992f623110c204b6a62799b66e</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>monique</sys_created_by><sys_created_on>2023-11-25 00:02:02</sys_created_on><sys_id>313a78942f3e3510c204b6a62799b6ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>0259a2992f623110c204b6a62799b66e</sys_name><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>pa_dashboards_permissions_313a78942f3e3510c204b6a62799b6ef</sys_update_name><sys_updated_by>monique</sys_updated_by><sys_updated_on>2023-11-25 00:02:02</sys_updated_on><type>2</type><user/><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>-1844439511</payload_hash>
+        <record_name>0259a2992f623110c204b6a62799b66e</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>monique</sys_created_by>
+        <sys_created_on>2023-11-25 00:02:02</sys_created_on>
+        <sys_id>b13a78942f3e3510c204b6a62799b6f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c03c885540000001</sys_recorded_at>
+        <sys_updated_by>monique</sys_updated_by>
+        <sys_updated_on>2023-11-25 00:02:02</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>b53a7894ef3e35104f9d6b25b57df0f0</update_guid>
+        <update_guid_history>b53a7894ef3e35104f9d6b25b57df0f0:-1844439511</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="0259a2992f623110c204b6a62799b66e">5a9e18512fb6f110c204b6a62799b638</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-28 00:35:17</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>5d3612e9933141588e97a2e4b5460840</sys_id>
+        <sys_metadata>313a78942f3e3510c204b6a62799b6ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0259a2992f623110c204b6a62799b66e</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_313a78942f3e3510c204b6a62799b6ef</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_313a78942f3e3510c204b6a62799b6ef">b13a78942f3e3510c204b6a62799b6f1</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-28 00:35:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

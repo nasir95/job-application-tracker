@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Job Application Trac - New Tab">5da067ef2f62b110c204b6a62799b6dd</grid_canvas>
+        <height>3</height>
+        <portal_widget display_value="Created 2023-11-22 20:17:21">ea71e7232fa2b110c204b6a62799b61c</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-23 04:17:22</sys_created_on>
+        <sys_id>6671e7232fa2b110c204b6a62799b625</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>5da067ef2f62b110c204b6a62799b6dd</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_6671e7232fa2b110c204b6a62799b625</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-23 21:17:47</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

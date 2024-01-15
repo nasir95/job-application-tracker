@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Job Application Workspace</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 19:50:11</sys_created_on>
+        <sys_id>58c3d6382fba7110c204b6a62799b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Workspace</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_ux_app_config_58c3d6382fba7110c204b6a62799b698</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 19:50:11</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="DELETE" query="documentkey=58c3d6382fba7110c204b6a62799b698"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>sys_ux_app_config_58c3d6382fba7110c204b6a62799b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Job Application Workspace</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-26 19:50:11</sys_created_on><sys_id>58c3d6382fba7110c204b6a62799b698</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Job Application Workspace</sys_name><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>sys_ux_app_config_58c3d6382fba7110c204b6a62799b698</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-26 19:50:11</sys_updated_on></sys_ux_app_config><sys_translated_text action="delete_multiple" query="documentkey=58c3d6382fba7110c204b6a62799b698"/></record_update>]]></payload>
+        <payload_hash>-239626134</payload_hash>
+        <record_name>Job Application Workspace</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 19:50:11</sys_created_on>
+        <sys_id>68c35e382fba7110c204b6a62799b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0d2eacc90000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 19:50:11</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>acc35e38a9ba7110ff53640dfc7df5f7</update_guid>
+        <update_guid_history>acc35e38a9ba7110ff53640dfc7df5f7:-239626134</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:12:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>075f9f3129a445208055a31197dd0900</sys_id>
+        <sys_metadata>58c3d6382fba7110c204b6a62799b698</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Workspace</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_58c3d6382fba7110c204b6a62799b698</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_58c3d6382fba7110c204b6a62799b698">68c35e382fba7110c204b6a62799b6f8</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:12:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

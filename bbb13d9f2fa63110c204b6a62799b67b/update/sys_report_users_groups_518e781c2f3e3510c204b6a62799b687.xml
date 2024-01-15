@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id display_value="Job Searcher" name="Job Searcher">92037c5b2fa23110c204b6a62799b6be</group_id>
+        <report_id display_value="Active Job Today">3b6163232fa2b110c204b6a62799b681</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-25 00:20:50</sys_created_on>
+        <sys_id>518e781c2f3e3510c204b6a62799b687</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3b6163232fa2b110c204b6a62799b681</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_report_users_groups_518e781c2f3e3510c204b6a62799b687</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-25 00:20:50</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+</record_update>

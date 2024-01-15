@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="4205bd572fe63110c204b6a62799b61b" label="Job Application Tracker" max_length="40" name="x_1104764_job_apps_job_application_tracker" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Company" mandatory="true" max_length="40" name="company" type="string"/>
+        <element label="Contract" max_length="40" name="contract" type="boolean"/>
+        <element label="Cover letter" max_length="40" name="cover_letter" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Applied" max_length="40" name="date_applied" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Job Board" max_length="40" name="job_board" type="string">
+            <choice>
+                <element inactive_on_update="false" label="snroles" sequence="0" value="snroles"/>
+                <element inactive_on_update="false" label="snjobs" sequence="1" value="snjobs"/>
+                <element inactive_on_update="false" label="LinkedIn" sequence="2" value="LinkedIn"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" mandatory="true" max_length="60" name="job_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="link" type="url"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Resume sent" max_length="40" name="resume_sent" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="100" name="short_description" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accepted" sequence="0" value="Accepted"/>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="Rejected"/>
+                <element inactive_on_update="false" label="Applied" sequence="2" value="Applied"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hybrid" sequence="0" value="Hybrid"/>
+                <element inactive_on_update="false" label="Onsite" sequence="0" value="Onsite"/>
+                <element inactive_on_update="false" label="Remote" sequence="0" value="Remote"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>0c7a9efc2fba7110c204b6a62799b6ae</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>job-application-tracker-workspace</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:19:23</sys_created_on>
+        <sys_id>487a1a702ffa7110c204b6a62799b626</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Tracker Workspace</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_ux_page_registry_487a1a702ffa7110c204b6a62799b626</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:19:23</sys_updated_on>
+        <title>Job Application Tracker Workspace</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>sys_ux_page_registry_487a1a702ffa7110c204b6a62799b626</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>0c7a9efc2fba7110c204b6a62799b6ae</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>job-application-tracker-workspace</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-26 20:19:23</sys_created_on><sys_id>487a1a702ffa7110c204b6a62799b626</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Job Application Tracker Workspace</sys_name><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>sys_ux_page_registry_487a1a702ffa7110c204b6a62799b626</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-26 20:19:23</sys_updated_on><title>Job Application Tracker Workspace</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-41639790</payload_hash>
+        <record_name>Job Application Tracker Workspace</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:19:23</sys_created_on>
+        <sys_id>007a1a702ffa7110c204b6a62799b629</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0d4967440000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:19:23</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>447a1a70e1fa711091319e4c3656f228</update_guid>
+        <update_guid_history>447a1a70e1fa711091319e4c3656f228:-41639790</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:21:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>7fb924c37c284201aca2f13e51bd3c29</sys_id>
+        <sys_metadata>487a1a702ffa7110c204b6a62799b626</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Application Tracker Workspace</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_487a1a702ffa7110c204b6a62799b626</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_487a1a702ffa7110c204b6a62799b626">007a1a702ffa7110c204b6a62799b629</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:21:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

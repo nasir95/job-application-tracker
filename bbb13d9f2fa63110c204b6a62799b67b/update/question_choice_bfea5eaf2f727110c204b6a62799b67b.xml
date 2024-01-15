@@ -5,7 +5,6 @@
         <order>200</order>
         <published_ref/>
         <question display_value="Preferred delivery">186ad2af2f727110c204b6a62799b6de</question>
-        <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>olanike</sys_created_by>
         <sys_created_on>2023-12-05 09:24:51</sys_created_on>

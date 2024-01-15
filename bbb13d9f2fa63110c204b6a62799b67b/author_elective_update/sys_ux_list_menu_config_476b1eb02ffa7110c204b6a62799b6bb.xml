@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Job Apps_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:23:41</sys_created_on>
+        <sys_id>476b1eb02ffa7110c204b6a62799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Apps_menu_config</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_476b1eb02ffa7110c204b6a62799b6bb</sys_update_name>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:23:41</sys_updated_on>
+    </sys_ux_list_menu_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</application>
+        <file_path/>
+        <instance_id>bb39e3c3db3e77040b9d21c40596196d</instance_id>
+        <instance_name>dev89260</instance_name>
+        <name>sys_ux_list_menu_config_476b1eb02ffa7110c204b6a62799b6bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config"><sys_ux_list_menu_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>Job Apps_menu_config</name><sys_class_name>sys_ux_list_menu_config</sys_class_name><sys_created_by>pushpa</sys_created_by><sys_created_on>2023-11-26 20:23:41</sys_created_on><sys_id>476b1eb02ffa7110c204b6a62799b6bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Job Apps_menu_config</sys_name><sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package><sys_policy/><sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope><sys_update_name>sys_ux_list_menu_config_476b1eb02ffa7110c204b6a62799b6bb</sys_update_name><sys_updated_by>pushpa</sys_updated_by><sys_updated_on>2023-11-26 20:23:41</sys_updated_on></sys_ux_list_menu_config></record_update>]]></payload>
+        <payload_hash>757827398</payload_hash>
+        <record_name>Job Apps_menu_config</record_name>
+        <reverted_from/>
+        <source>bbb139132fe63110c204b6a62799b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:23:41</sys_created_on>
+        <sys_id>076b1eb02ffa7110c204b6a62799b6bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0d4d55b70000001</sys_recorded_at>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:23:41</sys_updated_on>
+        <type>UX List Menu Configuration</type>
+        <update_guid>4b6b1eb05efa711077e104dc6c9374bc</update_guid>
+        <update_guid_history>4b6b1eb05efa711077e104dc6c9374bc:757827398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pushpa</sys_created_by>
+        <sys_created_on>2023-11-26 20:28:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_menu_config">sys_ux_list_menu_config</sys_db_object>
+        <sys_id>34d0bdc14776413a8e4ae3b9bbe6a659</sys_id>
+        <sys_metadata>476b1eb02ffa7110c204b6a62799b6bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Apps_menu_config</sys_name>
+        <sys_package display_value="Job Apps" source="x_1104764_job_apps">bbb13d9f2fa63110c204b6a62799b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Apps">bbb13d9f2fa63110c204b6a62799b67b</sys_scope>
+        <sys_scope_delete display_value="">1c2c763a53184bdc923c489db4b190e4</sys_scope_delete>
+        <sys_update_name>sys_ux_list_menu_config_476b1eb02ffa7110c204b6a62799b6bb</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_menu_config_476b1eb02ffa7110c204b6a62799b6bb">076b1eb02ffa7110c204b6a62799b6bd</sys_update_version>
+        <sys_updated_by>pushpa</sys_updated_by>
+        <sys_updated_on>2023-11-26 20:28:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
